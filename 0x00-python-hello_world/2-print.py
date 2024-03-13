@@ -1,3 +1,3 @@
-#!/bin/bash
-python3 -c 'print("\"Programming is like building a multilingual puzzle", end="\n")'
+#!/usr/bin/python3
+print("\"Programming is like building a multilingual puzzle", end="\n")
         
